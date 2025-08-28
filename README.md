@@ -1,4 +1,6 @@
 Internship Task 1 - Exploratory Data Analysis (EDA) on Dataset
+
+
 📌 Overview
 
 This task is part of my internship program, where I performed Exploratory Data Analysis (EDA) on the given dataset.
@@ -12,11 +14,16 @@ Generate meaningful statistical insights.
 
 Create visualizations to identify patterns, correlations, and trends.
 
+
+
 📂 Project Structure
 SCT_DS_1/
 │── data/                # Dataset files
 │── task1_eda.ipynb      # Jupyter Notebook containing code & analysis
 │── README.md            # Project documentation
+
+
+
 
 🛠️ Tools & Libraries Used
 
@@ -29,6 +36,9 @@ numpy → Numerical computations
 matplotlib → Data visualization
 
 seaborn → Advanced visualization
+
+
+
 
 🔍 Steps Performed
 
@@ -62,9 +72,16 @@ Bar charts for categorical features.
 
 Heatmap for correlation analysis.
 
+
+
+
+
 📊 Sample Visualizations
 
-(If you have PNG images saved, you can add them here. Example below)
+<img width="1857" height="945" alt="Screenshot 2025-08-23 113830" src="https://github.com/user-attachments/assets/a992a6a0-bc19-4862-821f-165b8cab7eeb" />
+<img width="1859" height="952" alt="Screenshot 2025-08-23 113854" src="https://github.com/user-attachments/assets/bc87de4e-ac66-4643-8cfd-76c26a25cad5" />
+
+
 
 
 ✅ Conclusion
@@ -78,3 +95,4 @@ This task provided a solid foundation for data understanding before moving to ad
 
 
 ✨ This project is part of my internship journey in Data Science & Analytics.
+
